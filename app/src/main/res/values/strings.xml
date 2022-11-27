@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Quran</string>
+    <string name="title">Al Fatihah(الفاتحة)</string>
+    <string name="meaning">Pembukaan 7 ayat</string>
+    <string name="ayat">Ayat</string>
+    <string name="description">Description</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="audio_isnot_playing">Audio is not playing</string>
+    <string name="audio_stop">Audio Stop</string>
+    <string name="audio_played">Audio Played</string>
+</resources>
